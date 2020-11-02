@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: ''
 weight: 1
 template: docs
 ---
