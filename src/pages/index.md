@@ -35,7 +35,7 @@ sections:
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
         actions:
-          - label: ''
+          - label: 'https://github.com/msimbo/starter.git'
             url: '/docshttps://github.com/msimbo/starter.git'
             style: link
       - title: Blog
