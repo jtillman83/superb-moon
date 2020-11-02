@@ -98,7 +98,7 @@ sections:
   - section_id: cta
     type: section_cta
     title: The Title of The Call to Action Block
-    subtitle: ''
+    subtitle: 'Only '
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
