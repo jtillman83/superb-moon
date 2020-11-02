@@ -2,7 +2,7 @@
 title: ' '
 weight: 1
 template: docs
-excerpt: still figu
+excerpt: still figure
 ---
 
 <div class="note">
