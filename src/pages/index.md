@@ -6,7 +6,7 @@ sections:
     title: Hero Section
     image: images/5.jpg
     content: >-
-      Learning new skillz are challeging be I'm up for and complete all task i
+      Learning new skillz are challeging but, I'm up for and complete all task i
       set my mind to. I will conqur this new world.
     actions:
       - label: Get Started
