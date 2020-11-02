@@ -30,10 +30,9 @@ sections:
     col_number: three
     grid_items:
       - title: Documentation
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: |-
+          never land is home for lost girls  like me
+          I hang-out wit peterpan playing in the sand 
         actions:
           - label: 'https://github.com/msimbo/starter.git'
             url: '/docshttps://github.com/msimbo/starter.git'
