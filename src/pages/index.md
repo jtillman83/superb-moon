@@ -6,8 +6,8 @@ sections:
     title: Hero Section
     image: images/5.jpg
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Learning new skillz are challeging be I'm up for and complete all task i
+      set my mind to. I will conqur this new world.
     actions:
       - label: Get Started
         url: /docs
