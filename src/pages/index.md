@@ -13,6 +13,12 @@ sections:
         url: /docs
         style: primary
         new_window: true
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
   - section_id: features
     type: section_grid
     col_number: three
