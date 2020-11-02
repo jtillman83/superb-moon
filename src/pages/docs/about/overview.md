@@ -1,5 +1,5 @@
 ---
-title: ' cole'
+title: ' '
 weight: 1
 template: docs
 ---
