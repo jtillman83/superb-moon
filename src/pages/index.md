@@ -36,7 +36,7 @@ sections:
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
         actions:
           - label: ''
-            url: /docs
+            url: '/docshttps://github.com/msimbo/starter.git'
             style: link
       - title: Blog
         content: >-
