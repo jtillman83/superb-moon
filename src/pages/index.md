@@ -10,7 +10,7 @@ sections:
       set my mind to. I will conqur this new world.
     actions:
       - label: Get Started
-        url: /docs
+        url: '/docshttps://github.com/msimbo/starter.git'
         style: primary
         new_window: true
       - label: lorem-ipsum
