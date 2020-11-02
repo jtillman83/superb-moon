@@ -12,6 +12,7 @@ sections:
       - label: Get Started
         url: /docs
         style: primary
+        new_window: true
   - section_id: features
     type: section_grid
     col_number: three
